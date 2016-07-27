@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-deploy-redis-release-test",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "DO NOT USE",
   "directories": {
     "doc": "doc",
