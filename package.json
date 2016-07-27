@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-deploy-redis",
+  "name": "ember-cli-deploy-redis-release-test",
   "version": "0.4.1",
-  "description": "Ember CLI Deploy plugin to deploy file(s) into redis.",
+  "description": "DO NOT USE",
   "directories": {
     "doc": "doc",
     "test": "tests"
